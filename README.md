@@ -18,5 +18,5 @@ Apex's databases structure as seen below contain 3 tables: dim_products, dim_cus
 The company customers located in 6 countries with totally more than 18,000 customers and they are almost eqully genders from males and females
 and the total revenue of the company was more than 29 Million with more than 27,000 order.
 
-To see the Dataset from here.
-And you can find the SQL quiers from here.
+To see the Dataset from [here](https://github.com/zaeonizaeoni/Sales_and_Performance_Analyst_of_a_Company_With_SQL/tree/main/flat-files).
+And you can find the SQL quiers from [here](https://github.com/zaeonizaeoni/Sales_and_Performance_Analyst_of_a_Company_With_SQL/blob/main/Query.sql).
